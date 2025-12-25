@@ -1,4 +1,4 @@
-# SEPA-CREDIT-TRANSFER
+# SEPA CREDIT TRANSFER
 # Project Overview
 This project analyzes SEPA Credit Transfer transaction data using Excel and Power BI to understand transaction patterns, settlement behavior, amount distribution, and cross-border activity.
 # Data Source
